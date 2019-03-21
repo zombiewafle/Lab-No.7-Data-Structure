@@ -1,0 +1,8 @@
+(house, casa)
+(kid, niño)
+(women, mujer)
+(men, hombre)
+(girl, niña)
+(cellphone, telefono)
+(controller, control)
+(computer, computadora)
